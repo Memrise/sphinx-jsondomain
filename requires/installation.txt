@@ -1,2 +1,2 @@
-Faker>=4.1.0
+Faker>=0.7.18
 Sphinx>=1.4
